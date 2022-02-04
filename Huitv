@@ -1,0 +1,9 @@
+#EXTM3U 
+
+#EXTINF:-1, Musica tv1
+ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
+
+#EXTINF:-1, Musica tv 2
+ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1, uno http://181.198.67.14:50000/play/a01u/index.m3u8
